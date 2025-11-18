@@ -1,0 +1,4 @@
+// Auto-generated file: /Users/kevinguoquan/Desktop/zama备用文件/测试/Zama项目/diseasereg_z/frontend/web/src/factory-demo/profile-shared/module/download-ape-spec.rst
+// Generated at: 2025-12-03T23:45:45.622Z
+
+
